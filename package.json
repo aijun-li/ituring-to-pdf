@@ -1,0 +1,21 @@
+{
+  "name": "ituring-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@lillallol/outline-pdf": "^4.0.0",
+    "axios": "^1.6.1",
+    "axios-retry": "^3.9.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-merger-js": "^4.3.0",
+    "puppeteer": "^21.5.1"
+  }
+}
